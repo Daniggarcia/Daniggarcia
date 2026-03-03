@@ -17,10 +17,11 @@
 ---
 
 <!-- About me -->
-<img align="right" width="220" src="https://i.imgur.com/jZxXQLx.gif" alt="Star wars coding" />
+<div align="center">
+  <img width="480" src="https://i.imgur.com/jZxXQLx.gif" alt="Star wars coding" />
+</div>
 
 ### `> whoami`
-
 ```yaml
 alias:        Dman Dev
 role:         Senior Delivery Consultant @ Deloitte
