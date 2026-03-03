@@ -17,14 +17,14 @@
 ---
 
 <!-- About me -->
-<img align="right" width="220" src="https://media.giphy.com/media/3oEjHWPTo7c0ajPwty/giphy.gif" alt="Darth Vader coding" />
+<img align="right" width="220" src="https://i.imgur.com/jZxXQLx.gif" alt="Star wars coding" />
 
 ### `> whoami`
 
 ```yaml
-alias:        Dman
+alias:        Dman Dev
 role:         Senior Delivery Consultant @ Deloitte
-domain:       Energy Sector — ERMT Projects
+domain:       Energy Sector — ERMT Projects - Hobby Applications
 stack:        [ .NET, C#, C++, Visual Basic ]
 level:        Senior
 interests:    [ Star Wars, Final Fantasy, AI Tools ]
@@ -70,30 +70,52 @@ status:       "Do. Or do not. There is no try." — Yoda
 
 ---
 
-<!-- Snake animation — run the GitHub Action below to activate -->
+<!-- Snake animation -->
 ### `> activity --graph`
 
 <div align="center">
 
+<!-- IMPORTANT: The snake image will be broken until you run the GitHub Action at least once.
+     After the first successful Action run, the SVG files will be generated in the "output" branch.
+     To trigger it manually: go to Actions tab > "Generate Snake Animation" > "Run workflow" -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniggarcia/Daniggarcia/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniggarcia/Daniggarcia/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daniggarcia/Daniggarcia/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daniggarcia/Daniggarcia/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- Side Project -->
+<!-- Projects -->
 ### `> projects --featured`
 
 <div align="center">
 
-[![IAHunt](https://img.shields.io/badge/🔍_IA_Hunt-AI_Tools_Directory-00D4FF?style=for-the-badge&labelColor=0D1117)](https://www.iahunt.com)
+<table>
+<tr>
+<td align="center" width="50%">
 
-> **[iahunt.com](https://www.iahunt.com)** — A curated directory of **166+ AI tools** across 16 categories.  
-> Find, compare and choose the best AI for your project. *Built by Dman.*
+[![DmanDev](https://img.shields.io/badge/🚀_DmanDev-Personal_Portfolio-00D4FF?style=for-the-badge&labelColor=0D1117)](https://www.dmandev.com)
+
+**[dmandev.com](https://www.dmandev.com)**  
+Personal portfolio — Systems Online // Pilot: Dman  
+*Spaceship cockpit UI · Galaxy-Core route*
+
+</td>
+<td align="center" width="50%">
+
+[![IAHunt](https://img.shields.io/badge/🔍_IA_Hunt-AI_Tools_Directory-7B61FF?style=for-the-badge&labelColor=0D1117)](https://www.iahunt.com)
+
+**[iahunt.com](https://www.iahunt.com)**  
+Curated directory of **166+ AI tools** across 16 categories.  
+*Find, compare and choose the best AI for your project.*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -108,6 +130,8 @@ status:       "Do. Or do not. There is no try." — Yoda
 ```
 
 ![Visitors](https://komarev.com/ghpvc/?username=Daniggarcia&color=00d4ff&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniggarcia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-galvez-garcia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dmandev.com-00D4FF?style=flat-square)](https://www.dmandev.com)
+[![IAHunt](https://img.shields.io/badge/IAHunt-iahunt.com-7B61FF?style=flat-square)](https://www.iahunt.com)
 
 </div>
